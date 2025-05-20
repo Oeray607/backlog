@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "af5d",
+      "name": "Ali",
+      "status": "New",
+      "type": "Support",
+      "description": "fgdgfd",
+      "priority": "Çok Acil",
+      "color": "#ff4d4f",
+      "createdAt": "2025-05-16T09:10:03.488Z"
+    }
+  ]
+}

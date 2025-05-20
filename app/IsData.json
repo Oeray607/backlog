@@ -1,0 +1,48 @@
+{
+  "Name": [
+    "Ali",
+    "Ahmet",
+    "Mehmet",
+    "Veli"
+  ],
+  "BacklogItemStatus": [
+    "New",
+    "InProgress",
+    "Done",
+    "Closed",
+    "Rejected"
+  ],
+  "BacklogItemType": [
+    "Bug",
+    "Feature",
+    "Support",
+    "Analysis"
+  ],
+  "BacklogItemDetails": [
+    "Title",
+    "Description",
+    "Priority",
+    "Size",
+    "Module",
+    "Function",
+    "Screen"
+  ],
+  "Priorities": [
+    {
+      "label": "Çok Acil",
+      "color": "#ff4d4f"
+    },
+    {
+      "label": "Acil",
+      "color": "#faad14"
+    },
+    {
+      "label": "Normal",
+      "color": "#52c41a"
+    },
+    {
+      "label": "Düşük Öncelik",
+      "color": "#1890ff"
+    }
+  ]
+}
